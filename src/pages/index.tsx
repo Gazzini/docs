@@ -15,7 +15,6 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">
           <img src={ useBaseUrl('/img/mystic_rodeo_trans_small.png') } width="50px" height="50px" style={ { verticalAlign: 'middle', marginBottom: '10px' } } />
-          { siteConfig.title }
         </h1>
         <p className="hero__subtitle">{ siteConfig.tagline }</p>
         <div className={ styles.buttons }>
