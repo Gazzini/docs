@@ -13,16 +13,16 @@ I simply pray for wisdom and continually ask "What is God's will?" as I'm decidi
 
 * [Fitness](fitness)
 
-![me flexing](fitness/pics/flex_down_crop.jpeg)
+<!-- ![me flexing](fitness/pics/flex_down_crop.jpeg) -->
 
 * [Pooldash](pooldash)
 
-![Pooldash app icon](pooldash/pics/pd_icon.jpg)
+<!-- ![Pooldash app icon](pooldash/pics/pd_icon.jpg) -->
 
 * [Cryptocurrency](crypto)
 
-![Coinbase Logo](crypto/pics/cb_icon.png)
+<!-- ![Coinbase Logo](crypto/pics/cb_icon.png) -->
 
 * [Writing](writing)
 
-![Mystic Rodeo icon](writing/pics/mr.jpg)
+<!-- ![Mystic Rodeo icon](writing/pics/mr.jpg) -->

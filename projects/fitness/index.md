@@ -17,4 +17,4 @@ If you're looking for advice, start here. If you want to follow John's Fantastic
 ## Gym
 
 I've had a home gym for the past 4 years & loved it:
-[View home gym](home_gym)
+[View home gym](./home_gym/index.md)
