@@ -1,4 +1,4 @@
-# Crypto-currency
+# Cryptocurrency
 
 I'm an engineer at coinbase.
 
