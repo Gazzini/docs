@@ -13,17 +13,3 @@ Recently, I've been more intentional about nutrition & loved it.
 ### Breakfast
 
 #### Smoothie
-
-Lots of these:
-
-* Ice
-* Water
-* Flax Seed
-* Blueberry Whey Protein (no sugar)
-* Cinnamon
-* Greek Yogurt
-
-Tiny splashes of these:
-
-* Blueberries (2 berries)
-* Milk (1 tsp)

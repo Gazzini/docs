@@ -3,6 +3,6 @@ sidebar_position: 2
 ---
 
 
-# Pool App
+# Pooldash
 
 I take my side-projects very seriously.
