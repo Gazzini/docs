@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Home Gym
 
-I have built this incrementally since 2019.
+I love my garage / office / gym. I've built it one piece at a time since 2019.
 
 You can skip to the main list of equipment [here](#equipment).
 
