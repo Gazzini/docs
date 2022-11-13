@@ -8,7 +8,7 @@ slug: /
 ## Current Projects
 
 * [Fitness](fitness)
-* [Swimming Pool Chemistry Calculator](pooldash)
+* [Pooldash](pooldash)
 * [Cryptocurrency](crypto)
 
 ## Coming Soon

@@ -4,13 +4,15 @@ sidebar_position: 1
 
 # Cutting
 
-Allow 2 or 3 months to cut the fat while keeping the muscle. This is the fun part, but it's mentally tougher.
+10 weeks, cut fat, keep muscle. This is the fun part, but it's mentally tougher.
 
 ## Philosophy
 
 Create a large calorie deficit while eating 200 grams of protein per day. This will cause your body to eat its own fat to make up for the deficit.
 
-It's easier to just stay in ketosis. If you want real results, do it.
+If you can create a 1,200 calorie deficit, you can cut 1/3 lb per day.
+
+Your body is better at eating fat when in ketosis. So, it's much easier just do strict keto.
 
 ## Workouts
 
@@ -43,11 +45,10 @@ I listen to audiobooks while rucking, and sometimes also while lifting. It makes
   * [bacon](/fitness/advice/meals/bacon)
   * avocado
 
-* Smoothie:
-  * [This](/fitness/advice/meals/smoothie_cut)
+* [Smoothie](/fitness/advice/meals/smoothie_cut)
 
 * Lunch:
-  * chicken breast + hamburger meat
+  * [chicken breast + hamburger meat](/fitness/advice/meals/meat_prep)
   * avocado
   * a handful of lettuce
 
@@ -61,7 +62,7 @@ I listen to audiobooks while rucking, and sometimes also while lifting. It makes
   * Maybe another cup of water + flax-seeds
   * Maybe snack on some 100% cacao dark chocolate (no sugar!!)
 
-That's it, don't overthink it.
+That's it, don't overthink it. You got this!
 
 ## Experiment
 
