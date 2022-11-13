@@ -97,11 +97,11 @@ Framing is important!
   * 4 scrambled eggs
     * topped w/ mushrooms
     * also topped with parmesan cheese
-  * [bacon](/fitness/tutorials/bacon)
+  * [bacon](/fitness/advice/meals/bacon)
   * avocado
 
 * Smoothie:
-  * [This](/fitness/tutorials/smoothie_cut)
+  * [This](/fitness/advice/meals/smoothie_cut)
 
 * Lunch:
   * chicken breast + hamburger meat
