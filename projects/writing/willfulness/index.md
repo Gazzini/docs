@@ -32,7 +32,7 @@ It's intellectually dishonest to coast through each situation with the same pre-
 
 ## Afterthoughts
 
-The "willful" options above generally involve [persuading](/essays/posts/persuasion) other people. I've noticed that people like me, who consider themselves both introverted & ambitious, will under-develop this skill. The ramifications of this conflict-avoidance start small but compound dangerously over time, especially when we keep our ambitions secret.
+The "willful" options above generally involve [persuading](/writing/persuasion) other people. I've noticed that people like me, who consider themselves both introverted & ambitious, will under-develop this skill. The ramifications of this conflict-avoidance start small but compound dangerously over time, especially when we keep our ambitions secret.
 
 I used to have some big dreams about getting rich and then becoming a teacher, but I would get a lot of criticism whenever I voiced it out loud. Rather than adapting the idea, or learning to defend it, I instead chose to stop talking about it entirely. The plan was just get so rich that I wouldn't have to persuade anyone else, and then become a teacher.
 

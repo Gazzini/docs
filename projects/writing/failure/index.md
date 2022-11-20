@@ -26,7 +26,7 @@ I’m still figuring out this balance: it’s currently on my mind because an ea
 
 From a cold economic perspective, I came out on top (salary was good). However, I obviously feel sad that it failed... Here is my best attempt to reverse-engineer those feelings:
 
-- I am happy when working towards [mastery, autonomy, and purpose]({{< ref "/essays/posts/interesting_work" >). The discontinuing of this product reduces the “purpose” in that equation.
+- I am happy when working towards [mastery, autonomy, and purpose]({{< ref "/writing/interesting_work" >). The discontinuing of this product reduces the “purpose” in that equation.
 - If the service was a huge success, I could proudly point to it for the rest of my life and say “I helped create that, and had a huge impact on its direction & success.” Now, there is nothing to point to — it will be difficult to receive external validation for the work I put in there.
 - There are some changes that I pushed for, which I suspect would have increased the chances of success, but were never tried (rebranding etc..). I might have been wrong, though.
 - I don’t actually know, for sure, why it failed. I know that the cost-to-acquire-a-customer was higher than the lifetime-value-of-a-customer, but I don’t really know why.

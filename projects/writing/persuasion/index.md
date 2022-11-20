@@ -11,7 +11,7 @@ When I tell friends that I'm building a side-project, they all give me a certain
 2) Give them my delta -- how do I think the world is changing, _specifically_?
 3) Given this specific delta, state my enlightened worldview, and _then_ segue into my strategy.
 
-You see, my [side-project]({{< ref "/projects/posts/pooldash" >) is for a small niche of humans. It's for maybe 5% of swimming pool owners, in addition to some pool service workers who are specifically seeking this tech.
+You see, my [side-project]({{< ref "/pooldash" >) is for a small niche of humans. It's for maybe 5% of swimming pool owners, in addition to some pool service workers who are specifically seeking this tech.
 
 When people hear this, they immediately start telling me _how_ to pursue the other 95% of the pool market. When I explain that I'll pursue the rest of the market _eventually_ but will focus on my pool-nerd market for the next couple of years, they don't even hear it, and instead point out other ways that the product is tailored incorrectly for "average" pool owners. We then get into a silly conversation where I make points about growing a solid foundation, and they talk about how most consumers want a simple product.
 

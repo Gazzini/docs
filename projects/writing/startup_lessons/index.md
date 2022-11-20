@@ -5,7 +5,7 @@ sidebar_position: 25
 
 # Startup Lessons
 
-Startups usually [fail]({{< ref "/essays/posts/failure" >), and there are already plenty of books & blogs & podcasts on how to succeed. I've personally helped build several early-stage startups, and I want to remember all the hard-learned lessons & constantly improve my decision-making process.
+Startups usually [fail]({{< ref "/writing/failure" >), and there are already plenty of books & blogs & podcasts on how to succeed. I've personally helped build several early-stage startups, and I want to remember all the hard-learned lessons & constantly improve my decision-making process.
 
 This won't be very useful for anyone else, as I won't publish the mapping of startup <-> lesson. That would be inappropriate, as some of these companies still exist, and in general it's poor form to talk _direct_ sh*t about former business partners.
 

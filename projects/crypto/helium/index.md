@@ -141,7 +141,7 @@ My 10k tokens are now worth ~$15 each (although it's volatile). I have 1 hotspot
 
 I found a friend to partially fund my validator (so I still maintain some liquidity). Unfortunately, this is complicated software, so staking still isn't actually available yet.
 
-I just quit my full-time job to focus on [pooldash](/projects/posts/pooldash). I don't know how long this crypto-currency market will stay hot, but it's given me a window of financial independence, and I'm using it to try & build a more sustainable source of passive income. If it doesn't work out, I'll get another job (I like building software anyways).
+I just quit my full-time job to focus on [pooldash](/pooldash). I don't know how long this crypto-currency market will stay hot, but it's given me a window of financial independence, and I'm using it to try & build a more sustainable source of passive income. If it doesn't work out, I'll get another job (I like building software anyways).
 
 ***
 

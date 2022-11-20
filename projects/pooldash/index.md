@@ -79,7 +79,7 @@ It's this project's 1-year anniversary! I'm still having fun building it, but we
 - Fun: `A`
 - Finances: `F-`
 
-I've helped 3 people get their first full-time tech jobs. I just quit my job to focus on pooldash full-time (funded by selling bitcoin and some [other crypto](/projects/posts/helium)).
+I've helped 3 people get their first full-time tech jobs. I just quit my job to focus on pooldash full-time (funded by selling bitcoin and some [other crypto](/crypto/helium)).
 
 - I need to make shorter [developer update videos](https://www.youtube.com/watch?v=NUAXkvuS0sw)
 - Bailey, Cole, and Shayne all have full-time jobs now (pooldash was a good stepping-stone)

@@ -50,5 +50,5 @@ It's difficult to combine this spray-and-pray investment mentality with the iron
 \
 \
 /**\
-Note -- Don’t over-apply this strategy, or you’ll have a shallow life. I spend most of my *time* on [long-term projects](/projects) with slow starts, but those aren’t strictly focused on financial returns.\
+Note -- Don’t over-apply this strategy, or you’ll have a shallow life. I spend most of my *time* on [long-term projects](/) with slow starts, but those aren’t strictly focused on financial returns.\
 **/
