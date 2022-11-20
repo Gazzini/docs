@@ -66,8 +66,18 @@ const deleteMd2File = (folderName: string) => {
     fs.unlinkSync(inputFileName);
 }
 
-fs.readdirSync('projects/writing/essays').forEach(x => {
+const createDummyRoute = (folderName: string) => {
+    const outputFileName = `src/pages/essays/posts/${ folderName }.tsx`;
+    const outputFileContents = fs.readFileSync('src/pages/essays/posts/pp.tsx');
+    fs.writeFileSync(outputFileName, outputFileContents);
+}
+
+let outString = '';
+fs.readdirSync('projects/writing').forEach(x => {
     // convertFolderName(x);
     // findReplaceInFile(x, 'sidebar_position:', 'date:');
-    deleteMd2File(x);
+    // deleteMd2File(x);
+    // createDummyRoute(x);
+    outString += `\n{from: '/essays/posts/${ x }', to: '/writing/${ x }'},`
 });
+console.log(outString);

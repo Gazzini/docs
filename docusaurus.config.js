@@ -34,24 +34,36 @@ const createConfig = async () => {
         '@docusaurus/plugin-client-redirects',
         {
           redirects: [
-            {
-              from: '/essays',
-              to: '/writing',
-            },
-            {
-              from: '/projects',
-              to: '/',
-            }
-          ],
-          createRedirects(existingPath) {
-            if (existingPath.includes('/essays/posts/')) {
-              // Redirect from /docs/team/X to /community/X and /docs/support/X to /community/X
-              return [
-                existingPath.replace('/essays/posts/', '/writing/'),
-              ];
-            }
-            return undefined; // Return a falsy value: no redirect created
-          },
+            // These are all the worthwhile routes from the old site:
+            { from: '/projects', to: '/' },
+            { from: '/essays', to: '/writing' },
+            { from: '/essays/posts/alignment', to: '/writing/alignment' },
+            { from: '/essays/posts/authentic', to: '/writing/authentic' },
+            { from: '/essays/posts/babel', to: '/writing/babel' },
+            { from: '/essays/posts/breakup', to: '/writing/breakup' },
+            { from: '/essays/posts/ditches', to: '/writing/ditches' },
+            { from: '/essays/posts/drafts', to: '/writing/drafts' },
+            { from: '/essays/posts/extra_mile', to: '/writing/extra_mile' },
+            { from: '/essays/posts/failure', to: '/writing/failure' },
+            { from: '/essays/posts/forcing_functions', to: '/writing/forcing_functions' },
+            { from: '/essays/posts/freedom', to: '/writing/freedom' },
+            { from: '/essays/posts/honesty', to: '/writing/honesty' },
+            { from: '/essays/posts/incentives', to: '/writing/incentives' },
+            { from: '/essays/posts/index.md', to: '/writing/index.md' },
+            { from: '/essays/posts/interesting_work', to: '/writing/interesting_work' },
+            { from: '/essays/posts/money', to: '/writing/money' },
+            { from: '/essays/posts/persuasion', to: '/writing/persuasion' },
+            { from: '/essays/posts/pics', to: '/writing/pics' },
+            { from: '/essays/posts/pp', to: '/writing/pp' },
+            { from: '/essays/posts/progressive', to: '/writing/progressive' },
+            { from: '/essays/posts/quit', to: '/writing/quit' },
+            { from: '/essays/posts/startup_lessons', to: '/writing/startup_lessons' },
+            { from: '/essays/posts/stress', to: '/writing/stress' },
+            { from: '/essays/posts/told_you_so', to: '/writing/told_you_so' },
+            { from: '/essays/posts/tools', to: '/writing/tools' },
+            { from: '/essays/posts/willfulness', to: '/writing/willfulness' },
+            { from: '/essays/posts/wisdom', to: '/writing/wisdom' },
+          ]
         },
       ],
     ],
