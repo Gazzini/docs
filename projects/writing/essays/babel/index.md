@@ -1,5 +1,6 @@
 ---
 date: "2020-09-27T12:50:56-05:00"
+sidebar_position: 10
 ---
 
 # Tower of Babel

@@ -1,5 +1,6 @@
 ---
 date: "2020-05-29T13:46:02-05:00"
+sidebar_position: 12
 ---
 
 # Money

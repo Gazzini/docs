@@ -1,5 +1,6 @@
 ---
 date: "2018-08-30T18:29:09-05:00"
+sidebar_position: 26
 ---
 
 # Interesting Work

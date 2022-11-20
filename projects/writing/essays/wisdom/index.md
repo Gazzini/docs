@@ -1,5 +1,6 @@
 ---
 date: "2020-04-24T05:19:55-05:00"
+sidebar_position: 16
 ---
 
 # Wisdom

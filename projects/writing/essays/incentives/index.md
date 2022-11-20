@@ -1,5 +1,6 @@
 ---
 date: "2019-07-06T20:55:04-05:00"
+sidebar_position: 24
 ---
 
 # Motivation

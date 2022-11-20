@@ -1,5 +1,6 @@
 ---
 date: "2020-04-26T14:56:15-05:00"
+sidebar_position: 14
 ---
 
 # Freedom

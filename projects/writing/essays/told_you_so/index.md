@@ -1,5 +1,6 @@
 ---
 date: "2021-02-10T20:45:19-06:00"
+sidebar_position: 7
 ---
 
 # I Told You So

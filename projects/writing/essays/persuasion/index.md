@@ -1,5 +1,6 @@
 ---
 date: "2020-11-08T13:54:52-06:00"
+sidebar_position: 8
 ---
 
 # Persuasion

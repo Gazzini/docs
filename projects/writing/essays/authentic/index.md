@@ -1,5 +1,6 @@
 ---
 date: "2020-02-07T23:09:33-06:00"
+sidebar_position: 18
 ---
 
 # Caricatures

@@ -1,10 +1,14 @@
 ---
 date: "2020-02-19T21:46:48-06:00"
+sidebar_position: 17
 ---
 
-# Prediction: Apple and PWAsPrediction: Apple and PWAs
+# Prediction
 
 // Feb 2022
+// TODO: why did I write this? Should I just delete it?
+
+## Apple and PWAsPrediction: Apple and PWAs
 
 ## tl;dr
 

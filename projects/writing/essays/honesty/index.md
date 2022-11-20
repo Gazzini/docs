@@ -1,5 +1,6 @@
 ---
 date: "2020-04-25T05:37:32-05:00"
+sidebar_position: 15
 ---
 
 # Honesty

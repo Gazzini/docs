@@ -1,5 +1,6 @@
 ---
 date: "2020-09-27T20:41:20-05:00"
+sidebar_position: 9
 ---
 
 # Pure Programming

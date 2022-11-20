@@ -1,5 +1,6 @@
 ---
 date: "2020-01-20T23:11:58-06:00"
+sidebar_position: 19
 ---
 
 # Stress
