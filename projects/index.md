@@ -8,8 +8,8 @@ slug: /
 ## Projects
 
 * [Fitness](fitness)
-* [Pooldash](pooldash)
 * [Writing](writing)
+* [Pooldash](pooldash)
 * [Cryptocurrency](crypto)
 
 ## About

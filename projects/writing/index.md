@@ -1,8 +1,13 @@
 
 # Writing
 
-I want to be a good writer, so I need to write more.
+I want to become a good writer, so I need to write a lot.
 
-I've been writing essays for a while ([here](/writing/told_you_so) is my favorite)... but I want to do some more experimental stuff soon.
+I wrote essays for a few years, but I'm trying to do something more experimental next... stay tuned!
 
-Stay tuned!
+In the meantime, here are some of my favorites (full list in the sidebar):
+
+* [I told you so](/writing/told_you_so)
+* [Alignment](/writing/alignment)
+* [Pure Programming](/writing/pp)
+* [Caricatures](/writing/authentic)

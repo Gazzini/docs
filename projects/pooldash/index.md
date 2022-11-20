@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Pooldash
 
-I'm building [pooldash.com](https://pooldash.com)
+I'm building [pooldash](https://pooldash.com). It's niche software that helps people chemically balance their swimming pools.
+
+I started trying to build a lifestyle business, but now it's currently some mix of performance-art & altruism. I open-sourced it & have helped ~8 people land their first tech jobs.
 
 ## Principles
 
