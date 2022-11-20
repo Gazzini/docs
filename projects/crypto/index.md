@@ -30,7 +30,7 @@ I ran nodes for a bunch of different proof-of-stake blockchains. I learned a lot
 
 ### StakeRiver
 
-I went all-in on a POKT staking pool, and at one point had 40 dedicated machines in Hetzner (in Germany). We were running nodes for 10+ different blockchains and serving data in real-time to end users. It was fun to game the performance using web2 hacks (Cloudflare edge workers, etc...).
+I helped build a POKT staking pool, and at one point we had 40 dedicated machines in Hetzner (in Germany). We were running nodes for 10+ different blockchains and serving data in real-time to end users. It was fun to game the performance using web2 hacks (Cloudflare edge workers, etc...).
 
 But, the price of POKT crashed, and I couldn't [save it](https://forum.pokt.network/t/weight-session-selection-by-staked-amount/2935) in time. Also, because of how the frontend was structured for developers, POKT had to censor OFAC uncompliant transactions... which is antithetical to the point of decentralized infra.
 
