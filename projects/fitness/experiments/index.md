@@ -1,39 +1,29 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Experiments
 
+I'm always trying new stuff, it's fun!
+
+## Recent
+
 ### November 2022: Carby Cut
 
-Can I achieve a similar weight-loss trajectory (1/3 pound per day) with an identical nutrition & workout plan, but with some carbs instead of some fats?
-
-My guess is "yes but I'll have worse cravings", but let's see how it goes!
-
-This will be my approach:
+[Can I cut fat without keto?](/fitness/experiments/2022-11-carby-cut.md)
 
 ### October 2022: Keto Cut
 
-#### Results
+[How much fat can I cut?](/fitness/experiments/2022-10-keto-cut.md)
 
-This worked great! I lost [1/3 pound per day](https://docs.google.com/spreadsheets/d/1S4l7QIQgtcMCehKXOpuFHvg-JNJHrMR3Hp19uGbl48k/edit?usp=sharing) during October:
+## Results so far
 
-![weight graph](../pics/weight_trend.jpg)
+* Best mile time: 5:58
 
-![Flexing](../pics/flex_up_small.jpeg)
+* Bench: 295
 
-![Flexing](../pics/flex_down_small.jpeg)
+* Squat: 345
 
-#### Intro
+* Deadlift: 460
 
-(spoiler alert: 208 -> 186).
-
-#### October 28, 2022
-
-I'm proud of how this ended up. I lost an average of 0.33 pounds / day throughout October (that's the red trendline):
-
-![weight graph](../pics/weight_trend.jpg)
-![Flexing](../pics/flex_up_small.jpeg)
-![Flexing](../pics/flex_down_small.jpeg)
-
-For the last 3 months, I
+![me flexing in the mirror](../pics/flex_up_small.jpeg)

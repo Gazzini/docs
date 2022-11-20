@@ -13,7 +13,7 @@ const createConfig = async () => {
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/mystic_rodeo_trans_small.png',
+    favicon: 'img/pfp.jpg',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
