@@ -8,7 +8,7 @@ Programmers aren't usually paragons of fitness, but I believe our physical bodie
 
 I work out for 9 hours per week, and I've [optimized my life](/fitness/home_gym) to make it convenient.
 
-You can view my advice [here](advice), my experiments [here](experiments), and my thirst-trap just below.
+You can view my advice [here](/fitness/advice), my experiments [here](/fitness/experiments), and my thirst-trap just below.
 
 ![Flexing](./pics/flex_down_small.jpeg)
 

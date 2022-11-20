@@ -1,0 +1,154 @@
+
+I think small, scrappy companies are more fun than mega-corps (duh). However, I also 
+
+Work is personal.
+
+I used to try (unsuccessfully) to "turn off" my emotions at work, but obviously that doesn't work. Then, I tried radical openness. 
+
+ 've never been great at isolating my emotions from my career, so I've stopped trying.  but I've learned to set better boundaries. One of the best ways to grow this skill is to look at counter-examples.
+
+One recurring example of what *not* to do happens to many people during a breakup.
+
+
+
+
+
+
+It's easy, however, to notice this behavior in others.
+
+ Many conflicts at work involve 2 things:
+
+- We're taking something too personally.
+- We're in complete denial of this emotional attachment.
+
+By failing to acknowledge our emotions, we actually make them everyone else's problem.
+
+ conflicts are rooted in us being unrealistic about how personally we're taking work. 
+
+ the conflict I've seen at work is rooted in  Unfortunately, it's hard to know how personal we're making it, because it's so easy to fool ourselves. Here are some fun litmus-tests:
+
+- When workplace drama happens, do I amplify or dampen it?
+- How many times in the past month have I lost sleep over something work-related?
+- If I got fired tomorrow, would it upset me?
+
+
+
+ In my experience, people have no idea how personal they're making it.
+
+
+ I'm surprised how uncalibrated all of us are here. Some of the most emotional people I know see themselves as detached, rational actors. 
+
+
+We often have a hard time realizing how personal we're making our professional relationships until some adversity is thrown in.
+ In my experience, it gets more personal when the relationships come to an end.
+
+
+
+
+
+
+
+
+
+
+
+
+Most people understand that gossip doesn't really help anybody, but we still do it anyways. When we take things personally, we can get tunnel-vision and start doing all sorts of mental gymnastics based on this mindset:
+
+- If this relationship fails, there must be some amount of fault.
+- The more of the blame I load onto the other person, the less there is for me (or my team).
+
+
+
+
+
+Many people feel like they're already stretching themselves thin to do unusually good work. Whether 
+
+Amazingly, many people end up in this situation because they want to do something unusually good. Whether it's an employee who does excellent work, or a boss who cultivates an amazing work environment, the psychology goes like this:
+
+
+ I think this is best illustrated by 
+
+The answer is something like "just be a good person," but it's a bit deeper than that. To illustrate this, let's focus specifically on relationships.
+
+I'm surprised how often I see my friends try to "win the breakup" when quitting a job or firing someone. It feels good to badmouth the other person, but it also signals immaturity.
+
+It's very easy to predict this behavior in a coworker. If they slander every former boss or employee, then they'll eventually slander you in the future.
+
+It's demoralizing when you sense this happening to you -- your reputation is really important, so the stakes seem high. It can be tempting to "fight fire with fire," but in reality, the best thing you can do is walk away.
+
+Everyone who hears the gossip will, eventually, be gossiped about by the same person. They won't remember what you said to defend yourself, but they'll remember that you gossiped.
+
+Amazingly, many people end up in this situation because they want to do something unusually good. Whether it's an employee who does excellent work, or a boss who cultivates an amazing work environment, the psychology goes like this:
+
+- If this relationship fails, there must be some amount of fault.
+- The more of the blame I load onto the other person, the less there is for me (or my team).
+
+From a purely utilitarian point-of-view, it is wise to intervene early and accept the majority of the blame. This is because the total amount of blame snowballs (mud-balls?) over time, so even if you end up with a smaller share of the blame later, you'll still look much worse.
+
+From a personal perspective, it's simply the right thing to do. 
+
+
+
+
+
+
+
+
+
+Work is only as personal as we make it. Unfortunately, most of us don't realize how personal we're making it. When we cease to acknowledge our own emotions, they become everyone else's problem. This is why it's easier to notice the behavior in others than in ourselves.
+
+In theory, there are 2 solutions: stop being emotional, or acknowledge our emotions. In practice, of course, there is only 1 solution.
+
+It feels natural to talk about boundaries next, but I don't have anything interesting to say about them. Some people overshare & bring their whole self to work. Others prefer to bring their minimum viable self to work. There is some minimum threshold of professionalism, but above that, these boundaries are uncorrelated with how good of a co-worker a person is.
+
+The important observation here is that our messy, personal emotions will always spill over into our work. The best thing we can do in response is to simply be a good person, through & through. Be thoughtful, intentional, principled, and kind. Operate with high integrity. That can seem fluffy, so let's look at a specific situation that happens all the time at work: break-ups.
+
+No business relationship lasts forever. People often quit, get fired, or fire others. These situations tend to be emotional, so pay attention to yourself the next time you go through this (in any capacity). What are you doing shortly before & after the termination?
+
+Just like in a romantic relationship, the worst thing you can do is try to "win the breakup." Before the breakup, do you spend time building a case against the other person? Are you searching for opportunities to highlight their flaws? Afterwards, if you sense the other person is slandering you, how do you respond?
+
+Amazingly, many of us respond poorly because we're trying so hard to be a great co-worker. As a boss or an employee, we believe that we're somehow defending our workplace culture by calling out the bad actors. Because we often don't realize how personally we take things, we're usually defending our own ego more than we'd like to admit. But regardless, it's all stupid, because the best thing we can do is to stop competing.
+
+How should we act before the break-up? In my experience, once we start building the blame-case in our head, the decision is made. Any amount of time we spend cultivating & cataloging animosity to justify our decision is harmful to us & those around us. It takes real leadership (from either side) to notice the pattern and intervene early.
+
+After the break-up, we often sense that the other person is slandering us (or our team, company, etc). All of a sudden, our reputations start to feel like a zero-sum game:
+
+- If this relationship fails, there must be some amount of fault.
+- The more of the blame I load onto the other person, the less there is for me.
+
+It's demoralizing when you sense this happening to you -- reputations are really important, so the stakes seem high. It can be tempting to "fight fire with fire," but in reality, the best thing you can do is rise above it.
+
+The best predictor of how a person will handle future break-ups is how they handled their previous ones. If they talk poorly about former co-workers, they'll eventually talk poorly about their current & future ones. Therefore, everyone who hears the other person's gossip will, eventually, be slandered by the same person. They won't remember what you said to defend yourself, but they'll remember that you stooped their level. And this assumes that you're even correct, at all, about them slandering you (they might not be).
+
+
+> May our lives reflect the desires in our hearts.
+
+
+
+
+
+
+
+
+
+
+Work is only as personal as we make it. Unfortunately, most of us have no idea how personal we make it. When we fail to acknowledge our own emotions, they become everyone else's problem. This is why it's easier to notice the behavior in others than in ourselves.
+
+Boundaries can help, but we hit diminishing returns pretty fast. Some people overshare & bring their whole self to work, while others only bring their minimum viable self. In my experience, this choice is uncorrelated with how good of a co-worker someone will be.
+
+The important point here is that our messy, personal emotions will always spill over into our work. The best thing we can do in response is to simply be a virtuous person so that whatever spills in will be positive. Be thoughtful, intentional, principled, and kind. Operate with high integrity. That can seem fluffy, so let's look at a specific situation that happens all the time at work: break-ups.
+
+
+
+
+
+
+
+
+On another note, this also works the other way. You can't be a high-integrity friend while simultaneously lying & misleading your way through business negotiations. Our actions become habits, and those habits form who we are.
+
+Work is personal because we care about it, and this is a good thing. We must listen intently, and in humility, count others as more significant than ourselves. & apply some empathy to better understand others. To understand ourselves, humility is the beginning of wisdom. From this foundation, we must be virtuous, act intentionally, and strive for excellence.
+
+
+, if we care about our jobs, then work is personal. Because work is personal, 

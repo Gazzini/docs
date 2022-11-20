@@ -1,0 +1,43 @@
+---
+title: "Stress"
+date: 2020-01-20T23:11:58-06:00
+type: "post"
+description: How to be productive without it
+tags: [essay]
+---
+
+I’m more productive when under pressure. It suddenly becomes easier to prioritize & just write code when I have a tight deadline & no other options. Stress is a good [forcing-function]({{< ref "/essays/posts/forcing_functions" >}}) in that way.
+
+However, I worry that I’ve normalized my body to a certain level of cortisol (or adrenaline or whatever), and without an ever-increasing dose of urgency, I simply can’t be productive. The solution used to be really simple: more stress == constantly high output. This was bound to unravel at some point, and I’m just about there.
+
+Some challenges:
+
+1. I’m slightly older — can’t drink coffee at midnight like I used to.
+2. I’m more employable — The thought of disappointing my boss or client isn’t as stressful as it used to be.
+3. My work has changed — Not only am I now managing other people, but we’re also writing more glue-code between 3rd-party services, which means that it’s harder to laser-focus for hours straight while constantly researching, asking-then-waiting, and browsing documentation.
+
+Seeing as I still work for a living, I’m very interested in staying productive. However, I don’t want to exchange my physical health for productivity anymore, and in fact I want an even better work-life balance now that I have a child. So… I need a different lever to pull.
+
+Empirically, I’ve already determined the best motivational strategy: work with amazing people. It really is that simple — I’ve never had trouble working hard when it’s alongside incredible people. However, there’s a catch — in every situation where I was working with incredible people, there were lots of external stressors. As my career progresses, I’ll surely get more access to better working environments. However, I think the challenge will always be present — capitalism attracts incredible people into high-stress jobs, and it might be hard to find them elsewhere.
+
+As for the work itself, I still want the intrinsic pull of a [meaningful project]({{< ref "/essays/posts/interesting_work" >}}) rather than the external push of stakeholders & deadlines. I don’t think any framing exercise will suffice — I’ve done a lot of mental-gymnastics to convince myself that the apps I built would leave a positive impact on the universe (and just-so-happen to generate a lot of revenue for company X in the process). I’m immune to the “greater good” argument at this point, perhaps even to a fault. Instead, here are the themes I'll be shooting for next:
+
+## Deep, not wide
+
+-   I’d rather have a deeply positive influence on 5 people than a small impact on 500,000 people.
+-   I want to create a niche tool that is unbelievably good, rather than an all-in-one solution that does everything just o.k.
+-   I want to focus on craftsmanship & own as much of the software stack as possible (build, don’t buy).
+
+## Love the work
+
+-   I want to avoid “sacrifice happiness today for wealth tomorrow” thinking as much as possible.
+-   I want to be [genuinely proud of the work](https://biblehub.com/colossians/3-23.htm).
+-   I want experts to stumble across the product and scratch their heads, wandering who would build such an elegant, intricate thing for so small a problem. I think this one goes against conventional-wisdom, and is a classic example of a developer just over-engineering something, but you know what they say… Look on my works, ye mighty, and despair!
+
+## Don’t be greedy
+
+-   I don’t want to make a billion dollars. I want to become financially independent.
+-   I don’t want to grow-at-all-costs, especially if it means sacrificing quality.
+-   I want to create career-changing opportunity for everyone I work with.
+
+My approach will be simple: just start building something, according to those values, and try to make it so interesting that great people will want to join. Hopefully that will create a work environment where we're all productive without excessive external stressors.

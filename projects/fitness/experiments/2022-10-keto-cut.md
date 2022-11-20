@@ -65,7 +65,7 @@ We traveled waaaay too much. I'm talking being _in_ back-to-back weddings in dif
 
 It's important to get fiber on Keto. At first, I had some weird sense of pride in doing keto "strict" where I didn't even take dietary fiber, and this was really stupid. I... had some issues.
 
-The trick is to ingest ~3 servings of ground flax-seed every morning & every evening (totaling ~6 servings / day), and even a small amount Greek yogurt (around a workout, because it has some real carbs).
+The trick is to ingest ~3 servings of ground flax-seed every morning & every evening (totaling ~6 servings / day), and even a small amount of Greek yogurt (around a workout, because it has some real carbs).
 
 ### Energy
 
@@ -80,9 +80,9 @@ Try harder. No shortcuts here.
 
 ### Communication
 
-I originally told people I was "trying to lose weight this month", and they _all_ responded with care & concern, telling me I didn't _need_ to, and silently diagnosing me with body dysmorphia (probably).
+I originally told people I was "trying to lose weight this month", and they _all_ responded with care & concern, telling me I didn't _need_ to, and silently diagnosing me with body dysmorphia.
 
-Instead, I started telling people I was "getting absolutely shredded this month", and they all encouraged & congratulated me.
+Instead, I started telling people I was "getting absolutely shredded this month," and they all encouraged & congratulated me.
 
 Framing is important!
 
