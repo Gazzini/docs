@@ -12,7 +12,7 @@ If I can do this, then you can do it even better. I hope you find this actionabl
 
 * [Cutting](/fitness/advice/cut)
 
-* [Food tips](meals)
+* [Food tips](/fitness/advice/meals)
 
 ## General
 
