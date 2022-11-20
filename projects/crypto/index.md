@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Economic efficiency is important... and also weird. The idea of storing "value" to spend later is a problem we humans invented for ourselves, but it matters enough to sweat the details.
 
-I'm more of a BTC maximalist every day, as I'm continually surprised by _how short_ of the liberterian cyberpunk utopia every more ambitious crypto project seems to fall. I'm uninterested in financial speculation.
+I'm more of a BTC maximalist every day, as I'm continually surprised by _how short_ of the liberterian utopia every new project seems to fall... and I'm mostly uninterested in financial speculation.
 
 ## Projects
 
