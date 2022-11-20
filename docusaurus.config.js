@@ -30,6 +30,30 @@ const createConfig = async () => {
 
     plugins: [
       require.resolve("@cmfcmf/docusaurus-search-local"),
+      [
+        '@docusaurus/plugin-client-redirects',
+        {
+          redirects: [
+            {
+              from: '/essays',
+              to: '/writing',
+            },
+            {
+              from: '/projects',
+              to: '/',
+            }
+          ],
+          createRedirects(existingPath) {
+            if (existingPath.includes('/essays/posts/')) {
+              // Redirect from /docs/team/X to /community/X and /docs/support/X to /community/X
+              return [
+                existingPath.replace('/essays/posts/', '/writing/'),
+              ];
+            }
+            return undefined; // Return a falsy value: no redirect created
+          },
+        },
+      ],
     ],
 
     presets: [
