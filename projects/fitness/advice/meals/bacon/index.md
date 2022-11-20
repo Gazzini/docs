@@ -23,3 +23,11 @@ Here's how I minimize stress:
 ## 4) Pull out 1/2 pack whenever you need bacon (works great for a family of 4)
 
 ![A stove, with a pan of small sizzling bacon strips](cooking.jpeg)
+
+## Advantages
+
+* It's _so_ easy to pull out of the bag, and doesn't pull or stretch.
+* You only touch raw meat with 1 hand.
+* The half-strips actually fit in the pan.
+
+🎉
