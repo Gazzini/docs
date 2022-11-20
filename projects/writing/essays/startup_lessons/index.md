@@ -1,5 +1,5 @@
 ---
-sidebar_position: "2019-06-18T14:02:53-05:00"
+date: "2019-06-18T14:02:53-05:00"
 ---
 
 # Startup Lessons

@@ -1,5 +1,5 @@
 ---
-sidebar_position: "2018-08-30T18:29:09-05:00"
+date: "2018-08-30T18:29:09-05:00"
 ---
 
 # Interesting Work

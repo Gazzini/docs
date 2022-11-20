@@ -1,5 +1,5 @@
 ---
-sidebar_position: "2020-02-19T21:46:48-06:00"
+date: "2020-02-19T21:46:48-06:00"
 ---
 
 # Prediction: Apple and PWAsPrediction: Apple and PWAs

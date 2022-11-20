@@ -1,5 +1,5 @@
 ---
-sidebar_position: "2021-04-17T14:22:50-05:00"
+date: "2021-04-17T14:22:50-05:00"
 ---
 
 # Asymmetric Bets

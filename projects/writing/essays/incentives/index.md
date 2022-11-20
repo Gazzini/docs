@@ -1,5 +1,5 @@
 ---
-sidebar_position: "2019-07-06T20:55:04-05:00"
+date: "2019-07-06T20:55:04-05:00"
 ---
 
 # Motivation
@@ -26,7 +26,7 @@ To me, this feels inauthentic, and perhaps a bit [cargo-cultish](https://en.wiki
 - Agile product-development schedules
 - Some elements of a "flat" hierarchy, at least during ideation
 
-<br>
+***
 The upside of a steady promotion track just can't compete with the potential to exit the labor-economy, freeing up the rest of one's life from _needing_ to trade time for money. I think this, combined with the smaller perceived sphere-of-impact, is why large companies can't authentically nurture an entrepreneurial spirit.
 
 >If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.

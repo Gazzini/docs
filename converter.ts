@@ -51,6 +51,23 @@ const convertFolderName = (folderName: string) => {
     console.dir(updatedImageTagText);
 }
 
+const findReplaceInFile = (folderName: string, find: string, replace: string) => {
+    const inputFileName = `projects/writing/essays/${ folderName }/index.md`;
+
+    const markdownFile = fs.readFileSync(inputFileName, 'utf8');
+    const newText = markdownFile.replace(find, replace);
+
+    fs.unlinkSync(inputFileName);
+    fs.writeFileSync(inputFileName, newText);
+}
+
+const deleteMd2File = (folderName: string) => {
+    const inputFileName = `projects/writing/essays/${ folderName }/index.md2`;
+    fs.unlinkSync(inputFileName);
+}
+
 fs.readdirSync('projects/writing/essays').forEach(x => {
-    convertFolderName(x);
+    // convertFolderName(x);
+    // findReplaceInFile(x, 'sidebar_position:', 'date:');
+    deleteMd2File(x);
 });
