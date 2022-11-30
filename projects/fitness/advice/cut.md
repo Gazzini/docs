@@ -16,7 +16,7 @@ Your body is better at eating fat when in ketosis. So, it's much easier just do 
 
 ## Workouts
 
-You should duplicate & adapt [this Google Sheet](https://docs.google.com/spreadsheets/d/1kWoa_W7le1Zh_3ufNy17Y8w4l0YEzz7ELM6V2n9-FOg/edit#gid=1514070884). Change the boxes in yellow.
+You should duplicate & adapt [this Google Sheet](https://docs.google.com/spreadsheets/d/1kWoa_W7le1Zh_3ufNy17Y8w4l0YEzz7ELM6V2n9-FOg/edit). Change the boxes in yellow.
 
 The basic idea is:
 
